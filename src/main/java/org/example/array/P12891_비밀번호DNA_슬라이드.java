@@ -14,7 +14,7 @@ import java.util.StringTokenizer;
  * ===========================================================
  * DATE              AUTHOR             NOTE
  * -----------------------------------------------------------
- * 10/21/24        mac       최초 생성
+ * 10/21/24        mac       슬라이딩 윈도우
  */
 public class P12891_비밀번호DNA_슬라이드 {
     static int myArr[] = new int[4];
